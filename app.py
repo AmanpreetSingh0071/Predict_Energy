@@ -51,3 +51,14 @@ if st.button("Predict"):
     st.success(f"✅ Predicted PV Output: {prediction:.2f} kW")
 
 st.caption("Model: Random Forest Regressor | Trained on 9 features including solar energy")
+
+# Adding the signature
+st.markdown(
+    """
+    <hr>
+    <div style="text-align:center; font-size: 12px; color: gray;">
+        Created by <strong>Amanpreet Singh</strong>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
