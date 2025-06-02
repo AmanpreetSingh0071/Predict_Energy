@@ -1,7 +1,3 @@
-Thanks! Based on the contents of your `Predict_Energy` project, here’s a professional and informative `README.md` you can use:
-
----
-
 # ☀️ PV Energy Output Prediction
 
 A web-based machine learning app that predicts photovoltaic (PV) solar energy output using weather features and trained regression models. Ideal for solar engineers, data scientists, and renewable energy analysts.
